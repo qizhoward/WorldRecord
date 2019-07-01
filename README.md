@@ -28,7 +28,7 @@
           －－－－WorldRecord Project 世界记录项目                                                            </br>
             |  |Mario Game worldrecord fastest clearance 马里奥游戏最快通关世界记录                            </br>
             |  |－－－update time 更新时间(大概大致) 2019.07.01 01:36PM                                       </br>
-            |  |  |Fastest clearance time 最快通关时间(精确时间) 时分秒 accurate time hour branch second 00:00:00 </br>
+            |  |  |Fastest clearance time 最快通关时间(精确时间) 时分秒 accurate time hour branch second 00:04:57:02 </br>
             |  |  |变化的时间Time of change 说明 备注 信息 Explain Remarks Information                        </br>
             |  |  |－－－last time and future time 上一次的时间                                              </br>
             |  |  |   |2019.07.01 01:36PM                                                                  </br>
